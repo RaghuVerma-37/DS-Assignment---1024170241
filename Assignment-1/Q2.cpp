@@ -1,4 +1,6 @@
 #include <iostream>
+#include<string>
+
 using namespace std;
 
 void inputArray(int arr[], int size) {

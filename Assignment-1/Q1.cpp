@@ -1,4 +1,5 @@
 #include <iostream>
+#include<string>
 using namespace std;
 
 void createArray(int arr[], int size) {
